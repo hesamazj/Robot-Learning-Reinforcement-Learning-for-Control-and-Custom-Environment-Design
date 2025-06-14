@@ -19,7 +19,7 @@ Bash
 git clone [git@github.com:hesamazj/Robot-Learning-Reinforcement-Learning-for-Control-and-Custom-Environment-Design.git]
 Navigate into the cloned directory. The included Jupyter notebooks or Python scripts will automatically handle the installation of required Python packages upon execution.
 Core Implementations and Demonstrations
-Problem 2: Actor-Critic Methods (Cart-Pole Control)
+Actor-Critic Methods (Cart-Pole Control)
 This section implements and evaluates an Actor-Critic algorithm to learn a policy for balancing the Cart-Pole.
 
 Actor-Critic Architecture:
@@ -125,7 +125,7 @@ Bash
 # Ensure you have completed the `Critic` class implementation in `p2_a2c.ipynb`.
 # Execute the relevant cells in `p2_a2c.ipynb` to train and test the Actor-Critic network.
 Expected Performance: A well-trained agent should consistently achieve episode scores above 100, demonstrating stable control of the Cart-Pole for extended durations.
-Problem 3: Custom MDP and RL Agent
+Custom MDP and RL Agent
 This section involves designing a custom OpenAI Gym environment and training an RL agent to solve the defined task.
 
 Custom Gym Environment Design (Chosen Scenario: [Specify Scenario A or B]):
