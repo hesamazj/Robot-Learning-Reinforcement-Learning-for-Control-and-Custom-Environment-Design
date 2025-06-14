@@ -28,10 +28,6 @@ The train_actor_critic function orchestrates the training loop, managing episode
 Running the Cart-Pole Demonstration:
 Bash
 
-# Ensure you have completed the `Critic` class implementation in `p2_a2c.ipynb`.
-# Execute the relevant cells in `p2_a2c.ipynb` to train and test the Actor-Critic network.
-Expected Performance: A well-trained agent should consistently achieve episode scores above 100, demonstrating stable control of the Cart-Pole for extended durations.
-Custom MDP and RL Agent
 This section involves designing a custom OpenAI Gym environment and training an RL agent to solve the defined task.
 
 Custom Gym Environment Design (Chosen Scenario: [Specify Scenario A or B]):
